@@ -73,16 +73,16 @@
       },
       {
         "__metadata": {
-          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('16')",
-          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('16')",
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('52')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('52')",
           "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
         },
-        "id_code": "16",
-        "city": "SUMATERA SELATAN",
-        "latitude": "-3.159351397",
-        "longtitude": "104.1162078",
-        "tooltip": "BGL",
-        "sales": "9694521000",
+        "id_code": "52",
+        "city": "NUSATENGGARA BARAT",
+        "latitude": "-8.766129605",
+        "longtitude": "117.3558761",
+        "tooltip": "MTR",
+        "sales": "4721224000",
         "waers": "IDR"
       },
       {
@@ -143,30 +143,16 @@
       },
       {
         "__metadata": {
-          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('31')",
-          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('31')",
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('16')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('16')",
           "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
         },
-        "id_code": "31",
-        "city": "DKI JAKARTA",
-        "latitude": "-6.209242702",
-        "longtitude": "106.8377399",
-        "tooltip": "JKT",
-        "sales": "4586769000",
-        "waers": "IDR"
-      },
-      {
-        "__metadata": {
-          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('32')",
-          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('32')",
-          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
-        },
-        "id_code": "32",
-        "city": "JAWA BARAT",
-        "latitude": "-6.834102144",
-        "longtitude": "107.5692956",
-        "tooltip": "BDG",
-        "sales": "1448380000",
+        "id_code": "16",
+        "city": "SUMATERA SELATAN",
+        "latitude": "-3.159351397",
+        "longtitude": "104.1162078",
+        "tooltip": "BGL",
+        "sales": "5694521000",
         "waers": "IDR"
       },
       {
@@ -241,16 +227,16 @@
       },
       {
         "__metadata": {
-          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('52')",
-          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('52')",
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('76')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('76')",
           "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
         },
-        "id_code": "52",
-        "city": "NUSATENGGARA BARAT",
-        "latitude": "-8.766129605",
-        "longtitude": "117.3558761",
-        "tooltip": "MTR",
-        "sales": "6721224000",
+        "id_code": "76",
+        "city": "SULAWESI BARAT",
+        "latitude": "-2.681609831",
+        "longtitude": "119.2617557",
+        "tooltip": "MAM",
+        "sales": "3740865000",
         "waers": "IDR"
       },
       {
@@ -409,16 +395,16 @@
       },
       {
         "__metadata": {
-          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('76')",
-          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('76')",
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('31')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('31')",
           "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
         },
-        "id_code": "76",
-        "city": "SULAWESI BARAT",
-        "latitude": "-2.681609831",
-        "longtitude": "119.2617557",
-        "tooltip": "MAM",
-        "sales": "5740865000",
+        "id_code": "31",
+        "city": "DKI JAKARTA",
+        "latitude": "-6.209242702",
+        "longtitude": "106.8377399",
+        "tooltip": "JKT",
+        "sales": "5586769000",
         "waers": "IDR"
       },
       {
@@ -475,6 +461,20 @@
         "longtitude": "132.7349026",
         "tooltip": "MNK",
         "sales": "6699829000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('32')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('32')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "32",
+        "city": "JAWA BARAT",
+        "latitude": "-6.834102144",
+        "longtitude": "107.5692956",
+        "tooltip": "BDG",
+        "sales": "8448380000",
         "waers": "IDR"
       }
     ]
