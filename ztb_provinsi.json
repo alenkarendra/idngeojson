@@ -1,0 +1,482 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('11')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('11')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "11",
+        "city": "DI. ACEH",
+        "latitude": "4.492526002",
+        "longtitude": "96.78615595",
+        "tooltip": "BNA",
+        "sales": "7589890000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('12')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('12')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "12",
+        "city": "SUMATERA UTARA",
+        "latitude": "2.692917595",
+        "longtitude": "99.11510081",
+        "tooltip": "MDN",
+        "sales": "5689647000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('13')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('13')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "13",
+        "city": "SUMATERA BARAT",
+        "latitude": "-0.653988052",
+        "longtitude": "100.6129514",
+        "tooltip": "PAD",
+        "sales": "5470704000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('14')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('14')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "14",
+        "city": "RIAU",
+        "latitude": "0.585104594",
+        "longtitude": "101.8244331",
+        "tooltip": "PBR",
+        "sales": "3941593000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('15')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('15')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "15",
+        "city": "JAMBI",
+        "latitude": "-1.385884731",
+        "longtitude": "103.335244",
+        "tooltip": "JMB",
+        "sales": "8720748000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('16')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('16')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "16",
+        "city": "SUMATERA SELATAN",
+        "latitude": "-3.159351397",
+        "longtitude": "104.1162078",
+        "tooltip": "BGL",
+        "sales": "9694521000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('17')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('17')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "17",
+        "city": "BENGKULU",
+        "latitude": "-3.387442281",
+        "longtitude": "102.2747255",
+        "tooltip": "PLG",
+        "sales": "9408331000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('18')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('18')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "18",
+        "city": "LAMPUNG",
+        "latitude": "-4.939406927",
+        "longtitude": "105.0006768",
+        "tooltip": "BDL",
+        "sales": "8146076000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('19')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('19')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "19",
+        "city": "BANGKA BELITUNG",
+        "latitude": "-2.263823953",
+        "longtitude": "106.0315256",
+        "tooltip": "PGP",
+        "sales": "7892746000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('21')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('21')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "21",
+        "city": "KEPULAUAN RIAU",
+        "latitude": "0.910656935",
+        "longtitude": "104.5415104",
+        "tooltip": "PBR",
+        "sales": "3806002000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('31')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('31')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "31",
+        "city": "DKI JAKARTA",
+        "latitude": "-6.209242702",
+        "longtitude": "106.8377399",
+        "tooltip": "JKT",
+        "sales": "4586769000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('32')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('32')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "32",
+        "city": "JAWA BARAT",
+        "latitude": "-6.834102144",
+        "longtitude": "107.5692956",
+        "tooltip": "BDG",
+        "sales": "1448380000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('33')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('33')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "33",
+        "city": "JAWA TENGAH",
+        "latitude": "-7.299318543",
+        "longtitude": "110.0453484",
+        "tooltip": "SMG",
+        "sales": "9603526000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('34')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('34')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "34",
+        "city": "DAERAH ISTIMEWA YOGY",
+        "latitude": "-7.875638414",
+        "longtitude": "110.4242153",
+        "tooltip": "YYK",
+        "sales": "4640862000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('35')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('35')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "35",
+        "city": "JAWA TIMUR",
+        "latitude": "-7.773678335",
+        "longtitude": "112.488858",
+        "tooltip": "SBY",
+        "sales": "5396501000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('36')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('36')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "36",
+        "city": "BANTEN",
+        "latitude": "-6.442923514",
+        "longtitude": "106.1045131",
+        "tooltip": "SRG",
+        "sales": "3658935000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('51')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('51')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "51",
+        "city": "BALI",
+        "latitude": "-8.360235695",
+        "longtitude": "115.1951012",
+        "tooltip": "DPR",
+        "sales": "7686620000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('52')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('52')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "52",
+        "city": "NUSATENGGARA BARAT",
+        "latitude": "-8.766129605",
+        "longtitude": "117.3558761",
+        "tooltip": "MTR",
+        "sales": "6721224000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('53')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('53')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "53",
+        "city": "NUSA TENGGARA TIMUR",
+        "latitude": "-8.65769417",
+        "longtitude": "121.0766639",
+        "tooltip": "KPG",
+        "sales": "5603550000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('61')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('61')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "61",
+        "city": "KALIMANTAN BARAT",
+        "latitude": "-0.280561786",
+        "longtitude": "110.72151",
+        "tooltip": "PTK",
+        "sales": "3508336000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('62')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('62')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "62",
+        "city": "KALIMANTAN TENGAH",
+        "latitude": "-1.525613917",
+        "longtitude": "113.5815687",
+        "tooltip": "PLK",
+        "sales": "6836864000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('63')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('63')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "63",
+        "city": "KALIMANTAN SELATAN",
+        "latitude": "-3.023634019",
+        "longtitude": "115.5210674",
+        "tooltip": "BJM",
+        "sales": "8507986000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('64')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('64')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "64",
+        "city": "KALIMANTAN TIMUR",
+        "latitude": "0.570874916",
+        "longtitude": "116.7112282",
+        "tooltip": "SMR",
+        "sales": "6735273000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('65')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('65')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "65",
+        "city": "KALIMANTAN UTARA",
+        "latitude": "3.137028173",
+        "longtitude": "116.4170342",
+        "tooltip": "TJS",
+        "sales": "3889259000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('71')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('71')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "71",
+        "city": "SULAWESI UTARA",
+        "latitude": "0.72736457",
+        "longtitude": "124.163116",
+        "tooltip": "MND",
+        "sales": "2980731000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('72')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('72')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "72",
+        "city": "SULAWESI TENGAH",
+        "latitude": "-1.688785176",
+        "longtitude": "120.9588883",
+        "tooltip": "PAL",
+        "sales": "9208239000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('73')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('73')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "73",
+        "city": "SULAWESI SELATAN",
+        "latitude": "-4.241507243",
+        "longtitude": "119.9062873",
+        "tooltip": "MKS",
+        "sales": "4994991000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('74')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('74')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "74",
+        "city": "SULAWESI TENGGARA",
+        "latitude": "-3.721728317",
+        "longtitude": "121.7835749",
+        "tooltip": "KDI",
+        "sales": "6929105000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('75')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('75')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "75",
+        "city": "GORONTALO",
+        "latitude": "0.710294283",
+        "longtitude": "122.4343727",
+        "tooltip": "GTO",
+        "sales": "2075759000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('76')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('76')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "76",
+        "city": "SULAWESI BARAT",
+        "latitude": "-2.681609831",
+        "longtitude": "119.2617557",
+        "tooltip": "MAM",
+        "sales": "5740865000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('81')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('81')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "81",
+        "city": "MALUKU",
+        "latitude": "-3.109704782",
+        "longtitude": "129.7717781",
+        "tooltip": "AMB",
+        "sales": "7260948000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('82')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('82')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "82",
+        "city": "MALUKU UTARA",
+        "latitude": "0.621991958",
+        "longtitude": "127.9205666",
+        "tooltip": "SFF",
+        "sales": "8210405000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('91')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('91')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "91",
+        "city": "PAPUA",
+        "latitude": "-4.486919816",
+        "longtitude": "139.2429532",
+        "tooltip": "JAP",
+        "sales": "8657518000",
+        "waers": "IDR"
+      },
+      {
+        "__metadata": {
+          "id": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('92')",
+          "uri": "https://S4DEMO.SOLTIUS.CO.ID:44370/sap/opu/odata/sap/ZRENDRA_IDN_CDS/ZRENDRA_IDN('92')",
+          "type": "ZRENDRA_IDN_CDS.ZRENDRA_IDNType"
+        },
+        "id_code": "92",
+        "city": "PAPUA BARAT",
+        "latitude": "-1.391873065",
+        "longtitude": "132.7349026",
+        "tooltip": "MNK",
+        "sales": "6699829000",
+        "waers": "IDR"
+      }
+    ]
+  }
+}
